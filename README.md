@@ -7,3 +7,7 @@ Para la visualización de la información se crearon 3 criterios:
 3. Precio vs Kilometraje
 
 Las variables serán mostradas mediante gráficos para facilidad de interpretación de los datos contenidos.
+
+Se puede acceder a la información en el siguiente link:
+
+https://projectsprint7-1-qco2.onrender.com
