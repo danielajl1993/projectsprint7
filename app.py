@@ -4,7 +4,7 @@ import plotly_express as px
 
 st.header('Visualización de Data - Mayo 2018 a Marzo 2019')
 
-car_data = pd.read_csv('C:/Users/danie/projectsprint7-1/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 model_counts = car_data['model'].value_counts()
 
